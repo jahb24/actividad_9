@@ -1,0 +1,1 @@
+alert('Hola mundo'.split('').reverse().join(''))
